@@ -1,0 +1,70 @@
+/* <style type ="text/css">*/
+body{
+    text-align: left;
+    color:rgb(245, 243, 250);
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size:30px;
+    background-image: url(p.jpg);
+    background-size: cover;
+   
+}
+header{
+    background-image:url(x.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    text-align: right;
+    color:rgb(245, 244, 244);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size:50px;
+
+
+}
+ul{
+    float: right;
+    list-style-type: none;
+    margin-left: 20px;
+    margin-top:30px;
+}
+
+    ul li {
+       text-size-adjust: 5px; 
+        text-decoration: none;
+        color: rgb(109, 204, 241);
+        padding: 5px 20px;
+        border: 1px solid rgb(252, 248, 248);
+    }
+    .svgclass {
+        background-color:gray;
+        float:left;
+        width:70%;
+        color:rgb(182, 145, 145);
+        padding:10px;
+        box-sizing:border-box;
+        opacity: 0.5;
+    }
+polygon{
+	fill:white; transition: 1s fill;
+}
+polygon:hover {
+	opacity: 0.5;
+    }
+    .block {
+    
+            float:left;
+            width:33.333%;
+            box-sizing: border-box;
+            padding:10px;
+            
+        } 
+        
+         
+ 
+    .Layer_1 { stroke: rgb(87, 87, 86);stroke-width: 2px; fill:rgb(228, 236, 241); fill-opacity: 50%;}
+    .Layer_2{stroke:rgb(113, 114, 112);stroke-width: 2px; fill:rgb(247, 244, 235); fill-opacity: 10%;}
+    .Layer_3{stroke:rgb(111, 112, 109);stroke-width: 2px; fill: rgb(241, 238, 243); fill-opacity: 50%;}
+    .Layer_4 {stroke:rgb(117, 117, 116);stroke-width: 2px; fill:rgb(235, 231, 248); fill-opacity: 10%;}
+    .Layer_5{stroke:rgb(117, 117, 117);stroke-width: 2px;fill:rgb(248, 241, 241); fill-opacity: 10%;}
+    
